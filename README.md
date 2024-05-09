@@ -1,6 +1,6 @@
 # Android-site
  Meu primeiro site, html e css
-excelente resposividade.
+ excelente resposividade.
 
 ![iPhone-13-PRO-127 0 0 1 (1)](https://github.com/vict0r-duarte/Android-site/assets/152073640/cd43ca4e-f4ca-4af8-b97d-8791d93d88cb)
 
