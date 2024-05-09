@@ -141,6 +141,7 @@ h1 {
 #div1 {
     align-content: flex-end;
     font-family: Arial, Helvetica, sans-serif;
+    columns: 2;
 }
 
 #coracao {
